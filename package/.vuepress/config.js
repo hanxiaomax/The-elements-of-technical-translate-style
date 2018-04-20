@@ -1,5 +1,5 @@
 module.exports = {
-  dest: 'vuepress',
+  dest: 'docs',
   base: 'The-elements-of-technical-translate-style',
   locales: {
     '/': {
