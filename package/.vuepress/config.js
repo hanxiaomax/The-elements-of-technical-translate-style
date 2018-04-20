@@ -1,6 +1,6 @@
 module.exports = {
   dest: 'docs',
-  base: 'The-elements-of-technical-translate-style',
+  base: '/The-elements-of-technical-translate-style/',
   locales: {
     '/': {
       lang: 'en-US',
@@ -28,7 +28,7 @@ module.exports = {
   themeConfig: {
     repo: 'vuejs/vuepress',
     editLinks: true,
-    docsDir: 'docs',
+    docsDir: 'package',
     locales: {
       '/': {
         label: 'English',
